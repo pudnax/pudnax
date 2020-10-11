@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Alex.
+
+- 🔭 I’m currently working on real-time fluid engine
+- 👯 I’m looking to collaborate
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pudnax&show_icons=true&theme=radical)
 
 <!--
 **pudnax/pudnax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
