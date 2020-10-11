@@ -1,7 +1,7 @@
 ### Hi! I'm Alex.
 
-- 🔭 I’m currently working on real-time fluid engine
-- 👯 I’m looking to collaborate
+- 🔭 I’m currently working on real-time fluid engine or playing with shaders.
+- 👯 I’m looking to collaborate.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pudnax&show_icons=true&theme=dark)
 
