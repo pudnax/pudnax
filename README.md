@@ -3,6 +3,7 @@
 - 🌱 Rust, C/C++, physics/graphics-development
 - 🔭 I’m currently working on real-time fluid engine or playing with shaders.
 - 👯 I’m looking to collaborate.
+- 😄 Pronouns: He/They
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pudnax&show_icons=true&theme=dark)
 
