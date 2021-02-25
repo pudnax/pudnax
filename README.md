@@ -1,9 +1,9 @@
 ### Hi! I'm Alex.
 
-- 🌱 Rust, C/C++, physics/graphics-development
-- 🔭 I’m currently working on real-time fluid engine(and maybe micromacgnetic) or playing with shaders.
-- 👯 I’m looking to collaborate.
-- 😄 Pronouns: He/They
+-  Rust, C/C++, physics/graphics-development
+-  I’m currently working on real-time fluid engine(and maybe micromacgnetic) or playing with shaders.
+-  I’m looking to collaborate.
+-  Pronouns: He/They
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pudnax&show_icons=true&theme=dark)
 
