@@ -1,7 +1,7 @@
 ### Hi! I'm Alex.
 
 -  Rust, C/C++, physics/graphics-development
--  I’m currently working on real-time fluid engine(and maybe micromacgnetic) or playing with shaders.
+-  I’m currently working on real-time simulation(and maybe micromacgnetics) or working on shaders and art.
 -  I’m looking to collaborate.
 -  Pronouns: He/They
 
