@@ -5,8 +5,7 @@
 -  I’m looking to collaborate.
 -  Pronouns: He/They
 
-Also check out my shadertoy!
-https://www.shadertoy.com/user/panna_pudi
+Also check out my [shadertoy](https://www.shadertoy.com/user/panna_pudi)!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pudnax&show_icons=true&theme=dark)
 
