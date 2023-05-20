@@ -3,7 +3,6 @@
 -  Rust, C/C++, physics/graphics-development
 -  I’m currently working on real-time simulation(and maybe micromacgnetics) or working on shaders and art.
 -  I’m looking to collaborate.
--  Pronouns: He/They
 
 Also check out my [shadertoy](https://www.shadertoy.com/user/panna_pudi)!
 
